@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=🔥⚙️BoostKernel⚙️🔥for Samsung Galaxy M23📱. By Mrsiri
+kernel.string=BoostKernel for Samsung Galaxy M23. By Mrsiri
 do.devicecheck=1
 do.modules=0
 do.systemless=1
